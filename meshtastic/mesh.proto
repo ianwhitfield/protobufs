@@ -676,6 +676,12 @@ enum HardwareModel {
    */
   MESHLINK = 87;
   
+  /*
+   * exploitee.rs Hacker Pager. Retro-styled "pager" with Meshtastic messaging, LoRa utilities, and graphic LCD UI.
+   * ESP32-S3, SX1262 (similar to HELTEC_V3).
+   * https://hackerpager.net
+   */
+  EXPLOITEERS_PAGER = 88;
 
   /*
    * ------------------------------------------------------------------------------------------------------------------------------------------
